@@ -61,3 +61,9 @@ Here is a sample case study, let's say you are a man in your early 30s that weig
   - The author eats essentailly the same thing every day. He found a breakfast that he likes, a lunch that he likes, and a dinner that he likes. He often orders those meals and has them delivered. He also supplements with protein powder to ensure he is hitting the cornerstone macro nutrient goals.
   - The author strongly believes that eliminating variety while you are learning how to think and eat in terms of macro-nutrients makes it easier to stay consistent. You don't have to overthink or wonder. You know what works and go with it. If you deviate from the diet, you know exactly where the deviations are and know how to get back on track.
   - Eating the same thing is not for everyone. Some people need variety. If you need variety, realize that you will need to dedicate more time to creating a diet that changes regularly and still has the appropriate macro-nutrient breakdown and calorie count for your goals.
+
+
+## References
+The author needs to give credit where credit is due. The /r/fitness subreddit has been a vital source of information and the foundation for most of what the author has learned and based his experiences on over the past year.
+He highly recommends that you go through it at your own pace, and try to make it a habbit it read over a new section of the wiki as often as possible.
+https://www.reddit.com/r/Fitness/wiki/getting_started
