@@ -65,5 +65,5 @@ Here is a sample case study, let's say you are a man in your early 30s that weig
 
 ## References
 The author needs to give credit where credit is due. The /r/fitness subreddit has been a vital source of information and the foundation for most of what the author has learned and based his experiences on over the past year.
-He highly recommends that you go through it at your own pace, and try to make it a habbit it read over a new section of the wiki as often as possible.
+He highly recommends that you go through it at your own pace, and try to make it a habit it read over a new section of the wiki as often as possible.
 https://www.reddit.com/r/Fitness/wiki/getting_started
